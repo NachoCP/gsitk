@@ -1,0 +1,25 @@
+This is a demo
+--------------
+
+This demo is going ilustrate how to use readthedocs.
+
+- Hello
+- World
+
+
+Subsection
+==========
+
+Introducing code is simple
+
+.. code:: python
+          
+          x = 'Hello World'          
+          print(x)
+
+.. code:: bash
+          
+          python -m gsitk -d
+
+
+
